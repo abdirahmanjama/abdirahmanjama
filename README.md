@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Abdirahman Jama. I am a London-based Software Engineer.
+- 👋 Hi, my name is Abdirahman Jama.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/jamadesigns) || [Personal Website](https://abdirahmanjama.com)
 <!---
 abdirahmanjama/abdirahmanjama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
