@@ -22,8 +22,6 @@ I'm Abdirahman, a language agnostic software engineer who enjoys solving problem
 
 I'm currently playing around with React, Java and AWS. 
 
-I am a Software Engineer at **[Gemba Advantage](https://www.gembaadvantage.com/)**. We build high-impact software that is secure, scalable and sustainable.
-
 Need a website? 
 
 Contact me @ **[abdirahman.io](https://abdirahman.io)** or **[jamadesigns](https://jamadesigns.tech)**
