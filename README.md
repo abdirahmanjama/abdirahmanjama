@@ -1,4 +1,4 @@
-## Hello! 👋 
+## Hello 👋 
 
 ## I'll introduce myself via code!
 
