@@ -19,7 +19,3 @@ public class Abdi {
 
 Abdi abdi = new Abdi("Abdirahman", "Software Engineer", true);
 ```
-
-Need a website? 
-
-Contact me @ **[abdirahman.io](https://abdirahman.io)** or **[jamadesigns](https://jamadesigns.tech)**
