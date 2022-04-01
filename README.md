@@ -1,7 +1,5 @@
 ## Hello 👋 
 
-## I'll introduce myself via code!
-
 ```java
 public class Engineer {
   private String name;
