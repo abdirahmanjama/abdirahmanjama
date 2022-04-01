@@ -3,12 +3,12 @@
 ## I'll introduce myself via code!
 
 ```java
-public class Abdi {
+public class Engineer {
   private String name;
   private String occupation;
   private boolean needsCoffee;
   
-  public Abdi(String name, String occupation, boolean needsCoffee){
+  public Engineer(String name, String occupation, boolean needsCoffee){
     this.name = name;
     this.occupation = occupation;
     this.needsCoffee = needsCoffee;
@@ -17,5 +17,5 @@ public class Abdi {
 
 //this code instantiates a language agnostic software engineer who enjoys solving problems.
 
-Abdi abdi = new Abdi("Abdirahman", "Software Engineer", true);
+Engineer abdirahman = new Engineer("Abdirahman", "Software Engineer", true);
 ```
