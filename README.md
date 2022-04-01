@@ -1,5 +1,3 @@
-## Hello 👋 
-
 ```java
 public class Engineer {
   private String name;
