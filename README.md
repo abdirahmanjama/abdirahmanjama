@@ -1,17 +1,13 @@
-```java
-public class Engineer {
-  private String name;
-  private String occupation;
-  private boolean needsCoffee;
-  
-  public Engineer(String name, String occupation, boolean needsCoffee){
+```javascript
+class Person {
+  constructor(name, profession, city){
     this.name = name;
-    this.occupation = occupation;
-    this.needsCoffee = needsCoffee;
+    this.profession = profession;
+    this.city = city;
   }
 }
 
 //this code instantiates a language agnostic software engineer who enjoys solving problems.
 
-Engineer abdirahman = new Engineer("Abdirahman", "Software Engineer", true);
+const Abdirahman = new Person("Abdirahman", "Software Engineer", "London");
 ```
