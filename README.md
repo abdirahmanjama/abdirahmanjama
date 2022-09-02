@@ -1,13 +1,9 @@
 ```javascript
-class Person {
-  constructor(name, profession, city){
-    this.name = name;
-    this.profession = profession;
-    this.city = city;
-  }
+const otherSkills = getOtherSkills();
+
+const Person = {
+  name: "Abdirahman",
+  skills: ["React", "TypeScript", "DSA", "System Design", ...otherSkills],
+  location: ["London", "Burco"],
 }
-
-//this code instantiates a language agnostic software engineer who enjoys solving problems.
-
-const Abdirahman = new Person("Abdirahman", "Software Engineer", "London");
 ```
