@@ -1,5 +1,5 @@
 ```javascript
-const otherSkills = getOtherSkills();
+const otherTechnologies = getOtherTechnologies();
 
 const Person = {
   name: "Abdirahman",
